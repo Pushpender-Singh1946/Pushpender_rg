@@ -15,3 +15,8 @@ resource "azurerm_resource_group" "QA3" {
   name     = "QA3"
   location = "West Europe"
 }
+
+resource "azurerm_resource_group" "QA4" {
+  name     = "QA4"
+  location = "West Europe"
+}
