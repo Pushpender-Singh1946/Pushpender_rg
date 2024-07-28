@@ -1,17 +1,17 @@
 
 
 
-resource "azurerm_resource_group" "example" {
-  name     = "example"
+resource "azurerm_resource_group" "dev1" {
+  name     = "dev1"
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "rg2" {
-  name     = "rg2"
+resource "azurerm_resource_group" "dev2" {
+  name     = "dev2"
   location = "West Europe"
 }
 
-resource "azurerm_resource_group" "rg3" {
-  name     = "rg3"
+resource "azurerm_resource_group" "dev3" {
+  name     = "dev3"
   location = "West Europe"
 }
