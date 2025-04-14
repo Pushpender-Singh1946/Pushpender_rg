@@ -7,3 +7,5 @@ resource "azurerm_resource_group" "newpayararg1" {
   name = "newpayararg1"
     location = "East US"
 }
+
+###Pushpender###
