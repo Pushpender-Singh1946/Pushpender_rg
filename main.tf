@@ -8,4 +8,8 @@ resource "azurerm_resource_group" "newpayararg1" {
     location = "East US"
 }
 
+
+##rajaji##
+=======
 ###Pushpender###
+
